@@ -118,21 +118,35 @@ Changed the program so that all variable inputs are from excel file.
 ### 12/11/22
 Gave seminar of the updated code.
 ### 14/11/22
-
+Started working on creating 3d shapes in frappe.
 ### 15/11/22
+Rendered videos to 4x.
 ### 16/11/22
+Started working on automating the download of files from SITE.
 ### 17/11/22
+Tried to solve the problem of embedded pdfs.
 ### 18/11/22
+Solved the problem of embedded pdfs and gave a seminar.
 ### 21/11/22
+Completed the work of automation.
 ### 22/11/22
+Explored 3d libraries in javascipt.
 ### 23/11/22
+Explored three.js.
 ### 24/11/22
+Explored p5.js.
 ### 25/11/22
+Created 3d shapes using p5.js
 ### 30/11/22
+Created 3d table with variables.
 ### 1/12/22
+Started creating a single page application for 3d table. 
 ### 2/12/22
+Completed single page application of 3d table.
 ### 5/12/22
+New task was assigned of Programmable Logic Controller.
 ### 6/12/22
+
 ### 7/12/22
 ### 8/12/22
 ### 9/12/22
