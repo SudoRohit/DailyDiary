@@ -146,17 +146,50 @@ Completed single page application of 3d table.
 ### 5/12/22
 New task was assigned of Programmable Logic Controller.
 ### 6/12/22
-
+Read about PLC.
 ### 7/12/22
+Explored more about PLC.
 ### 8/12/22
+Explored Twincat.
 ### 9/12/22
+Read about  Structured Text.
 ### 12/12/22
+Read about Ladder Logic.
 ### 13/12/22
+Followed tutorials for twincat.
 ### 14/12/22
+Followed tutorials for twincat.
 ### 15/12/22
+Followed tutorials for twincat.
 ### 16/12/22
+Followed tutorials for twincat.
 ### 19/12/22
+Followed tutorials for twincat.
 ### 20/12/22
+Started doing baby tasks for PLC.
 ### 22/12/22
+Created simple console app.
 ### 23/12/22
+Created simple windows form app.
 ### 26/12/22
+Started working on showing mouse movement on graph.
+27/12/22
+Continued working on same.
+28/12/22
+Started working on taking data from usb port.
+29/12/22
+Continued the same.
+30/12/22
+Continued the same.
+2/1/23
+Started working on HMI code on secured laptop.
+3/1/23
+Tried to understand the logic.
+4/1/23
+Continued the same.
+5/1/23
+Tried to execucte program without taking input from sensors.
+6/1/23
+Created excel file code for automation work of sselenium.
+7/1/23
+Executed the HMI program successfully by removing input from sensors.
